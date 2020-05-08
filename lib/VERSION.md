@@ -1,1 +1,1 @@
-| com.distriqt.Helpshift | 1.0.094 |  |  |
+| com.distriqt.Helpshift | 1.0.100 |  |  |
