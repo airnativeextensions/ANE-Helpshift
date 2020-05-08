@@ -77,6 +77,21 @@ The following should be added to your `extensions` node in your application desc
 
 
 
+## Additional Files
+
+>
+>	**IMPORTANT**
+>
+
+The Helpshift SDK requires a file be packaged in your application at the root level. It contains a range of configuration values the SDK uses internally.
+
+Simply add the `hs__data` file to the root level of your application package.
+
+This file is located alongside the extension in the repository or in the example applications.
+
+
+
+
 
 ## Android 
 
@@ -170,6 +185,9 @@ This will require the addition of the `androidx.multidex` extension which contai
 	</application>
 </manifest>
 ```
+
+
+
 
 
 
